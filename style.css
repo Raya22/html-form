@@ -3,7 +3,7 @@
 
 section
 {
-    background-color: rgba(233, 107, 166, 0.4);
+    background-color: rgb(233, 107, 166);
 }
 
 .logo
@@ -22,15 +22,18 @@ header p
 {
     font-family: 'Bebas Neue', cursive;
     font-size: 180%;
+    color: #63448f;
     padding-left:45%;
 
 }
+
 
 article h3{
     float: inline-start;
 }
 footer ul
 {
+    color: hsl(20, 50, 30);
     padding-left: 30%;
 
 }
