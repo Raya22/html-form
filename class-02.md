@@ -216,6 +216,35 @@ operators, which you can use with numbers.
 | modulus  |   %  | 9 % 2 =1   |
 
 
+> ## if statement
+
+Conditional statements are used to perform different actions based on different conditions.
+
+
+```js
+if (condition) {
+  //  block of code to be executed if the condition is true
+}
+```
+```js
+if (mark >= 50) {
+  grade = "pass";
+}
+```
+```js
+if (mark >= 50) {
+  grade = "pass";
+}
+  else
+  {
+      grade ="fail";
+  }
+```
+
+
+
+
+
 
 
 

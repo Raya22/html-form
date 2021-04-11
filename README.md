@@ -27,7 +27,7 @@ this is my Github link: (https://github.com/Raya22).
 | file | url |
 | ---- | --- |
 |  class-01    |[class-01.md](https://raya22.github.io/reading-notes102/class-01)     |
-|      |     |
+|  class-02    |   [class-02](https://raya22.github.io/reading-notes102/class-02)  |
 |      |     |
 |      |     |
 |      |     |
